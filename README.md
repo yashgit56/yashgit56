@@ -31,4 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgit56&" alt="yashgit56" /></p>
 
+<h4 align="center"> Visitors Count 👀 </h4>
 <p align="center"> <img src="https://profile-counter.glitch.me/{yashgit56}/count.svg" alt="visitors count"> </img> </p>
