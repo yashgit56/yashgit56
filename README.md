@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgit56&label=Profile%20views&color=0e75b6&style=flat" alt="yashgit56" /> </p>
 
-- 🔭 I’m currently working on **Java, Spring Boot**
+- 🔭 I’m currently working on **DotNet Core**
 
-- 🌱 I’m currently learning **Spring Boot, .net core**
+- 🌱 I’m currently learning **Java, Spring Boot**
 
-- 👯 I’m looking to collaborate on **MERN, Java**
+- 👯 I’m looking to collaborate on **MERN**
 
-- 💬 Ask me about **MERN, java,spring boot**
+- 💬 Ask me about **MERN, Spring Boot, DotNet**
 
 - 📫 How to reach me **yashvataliya65@gmail.com**
 
