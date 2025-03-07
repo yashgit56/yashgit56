@@ -29,7 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashgit56&show_icons=true&locale=en" alt="yashgit56" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgit56&" alt="yashgit56" /></p>
-
 <h4 align="center"> Visitors Count 👀 </h4>
 <p align="center"> <img src="https://profile-counter.glitch.me/{yashgit56}/count.svg" alt="visitors count"> </img> </p>
